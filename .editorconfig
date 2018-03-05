@@ -1,0 +1,6 @@
+root = true
+
+# Dotnet code style settings:
+[*.{cs,vb}]
+indent_size = 4
+indent_style = space
